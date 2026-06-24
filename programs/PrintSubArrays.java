@@ -1,4 +1,4 @@
-package Codes;
+package programs;
 
 public class PrintSubArrays {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Codes;
+package programs;
 
 //create an array and traverse
 

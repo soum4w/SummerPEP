@@ -1,4 +1,4 @@
-package Codes;
+package programs;
 
 public class SumAvgMax {
     public static void main(String[] args) {
