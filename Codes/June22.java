@@ -1,4 +1,4 @@
-package tasks;
+package Codes;
 
 //create an array and traverse
 
