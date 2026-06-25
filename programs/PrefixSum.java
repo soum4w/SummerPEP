@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Arrays;
 
-public class PrefixSumArray {
+public class PrefixSum {
     public static void main(String[] args) {
         int[] arr = {2,4,3,1,6};
         int n = arr.length;
